@@ -15,7 +15,13 @@ POLYGON - City Pack: a low poly asset pack of characters, buildings, props, vehi
 
 Simple Office: a simple asset pack of office rooms and objects
 
+### Other APIs and Libraries
+
 Microsoft Azure Speech SDK: provides Azure speech to text and text to speech support
+
+Microsoft Azure Text To Speech: recieves and returns text with keyword strength and sentiment score
+
+Python Pandas and LXML Libraries: used for webscraping job postings
 
 *Note: a sitting animation from Mixamo is used*
 
